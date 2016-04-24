@@ -11,7 +11,7 @@ PS：排名不分先后
 [Drakeet](https://drakeet.me/)|[drakeet](https://github.com/drakeet)
 [干货集中营](http://gank.io/)|
 [Srain](http://www.liaohuqiu.net/)|[liaohuqiu](https://github.com/liaohuqiu)
-[Android开发技术周报](http://androidweekly.cn/)
+[Android开发技术周报](http://androidweekly.cn/)|
 [CoderRobin](http://coderrobin.com/)|[CoderRobin](https://github.com/CoderRobin)
 [码农明明桑](http://blog.isming.me/)|[sangmingming](https://github.com/sangmingming)
 [农民伯伯](http://www.cnblogs.com/over140/)|
