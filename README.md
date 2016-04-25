@@ -1,11 +1,13 @@
 # 中文Android技术博客
 个人所收录的Android技术博客列表，不定时添加更新。
+
 有好的Android技术博客可直接Commit，欢迎`Star`、`Fork`
 
 **三人行必有我师**，博客是最好的学习的地方！
 
 ## RSS阅读器
 推荐一个RSS阅读器——[Feedly](http://feedly.com/)
+
 自从Google Reader 关闭后，我就一直用这个。风格和GR类似，且支持移动端。
 
 
