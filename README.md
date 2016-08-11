@@ -48,7 +48,10 @@ PS：排名不分先后
 [hanyonglu](http://www.cnblogs.com/hanyonglu)|[hanyonglu](https://github.com/hanyonglu)
 [闷瓜蛋子](http://www.fookwood.com/)|[fookwood](https://github.com/fookwood)|
 [傲慢的上校](http://blog.csdn.net/lilu_leo)|
-
+[翟一帆](http://blog.zhaiyifan.cn/)|
+[许晓风](https://drakeet.me/)|
+[吴晶](http://www.race604.com/)|
+[田维术](http://weishu.me/)|
 
 
 
