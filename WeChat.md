@@ -1,10 +1,5 @@
 ##  微信公众号推荐
 
-<div style="display:inline"> 
-<div id="div1" style="float:left">hahha<br>hhe</div> 
-<div id="div2" style="float:right">div2 content</div> 
-</div> 
-
 移动开发前线
 
 微信号: bornmobile
