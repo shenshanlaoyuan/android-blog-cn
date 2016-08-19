@@ -10,7 +10,7 @@
 ---
 微信也是一个很好的学习平台！
 
-微信公众号推荐[https://github.com/shenshanlaoyuan/android-blog-cn/blob/master/WeChat.md](https://github.com/shenshanlaoyuan/android-blog-cn/blob/master/WeChat.md)
+[微信公众号推荐](https://github.com/shenshanlaoyuan/android-blog-cn/blob/master/WeChat.md)
 
 ## RSS阅读器
 推荐一个RSS阅读器——[Feedly](http://feedly.com/)
