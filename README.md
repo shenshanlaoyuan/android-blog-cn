@@ -11,7 +11,6 @@
 **博客是最好的学习的地方！**
 
 ---
-微信也是一个很好的学习平台！
 
 [微信公众号推荐](https://github.com/shenshanlaoyuan/android-blog-cn/blob/master/WeChat.md)
 
