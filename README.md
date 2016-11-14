@@ -9,7 +9,6 @@
 
 **博客是最好的学习的地方！**
 
-
 ---
 
 [微信公众号推荐](https://github.com/shenshanlaoyuan/android-blog-cn/blob/master/WeChat.md)
